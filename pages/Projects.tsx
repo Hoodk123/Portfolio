@@ -20,7 +20,7 @@ const Projects: React.FC = () => {
             <Youtube className="w-5 h-5 mr-2" />
             Watch Project Video
           </a>
-          <a href="#" className="flex items-center justify-center px-4 py-3 bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition-all text-primary font-medium w-full sm:w-auto">
+          <a href="https://www.canva.com/design/DAG4UIDkDxw/5Xg-nXWtedB-bqDB9diMgg/edit?utm_content=DAG4UIDkDxw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" className="flex items-center justify-center px-4 py-3 bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition-all text-primary font-medium w-full sm:w-auto">
             <FileText className="w-5 h-5 mr-2" />
             View Slide Deck (PDF)
           </a>
